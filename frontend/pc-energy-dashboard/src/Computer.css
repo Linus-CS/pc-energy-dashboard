@@ -1,0 +1,12 @@
+.Computer {
+  height: 100%;
+  width: 100%;
+}
+
+.Computer h1 {
+  font-size: medium;
+}
+
+.Computer span {
+  color: brown;
+}

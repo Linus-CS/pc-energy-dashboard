@@ -1,0 +1,22 @@
+.Nav {
+  margin-top: 2%;
+  float: left;
+  width: 5%;
+  height: 100%;
+  display: grid;
+}
+
+.Entry {
+  width: 100%;
+  text-align: center;
+  display: grid;
+}
+
+.Entry img {
+  width: 50%;
+  margin: auto;
+}
+
+.Entry h1 {
+  font-size: medium;
+}
